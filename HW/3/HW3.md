@@ -11,5 +11,5 @@
 
 Загружаем оба csv файла в superset, обрабатываем и строим дашборд:
 
-![alt text](image-2.png)
+![alt text](image-3.png)
 
